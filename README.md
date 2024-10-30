@@ -22,4 +22,4 @@ TypeScript adalah bahasa pemrograman yang dikembangkan oleh Microsoft yang menam
 ## Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/reponame.git
+   [git clone https://github.com/username/reponame.git](https://github.com/FarhanFansuri/typescript-repo.git)
