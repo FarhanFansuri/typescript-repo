@@ -1,4 +1,4 @@
-# Belajar TypeScript
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> Belajar TypeScript
 
 Ini adalah repository yang dibuat untuk mempelajari dasar-dasar dan konsep TypeScript, serta berbagai fitur dan penggunaan yang umum. 
 
