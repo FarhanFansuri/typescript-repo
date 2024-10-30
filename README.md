@@ -19,7 +19,7 @@ TypeScript adalah bahasa pemrograman yang dikembangkan oleh Microsoft yang menam
 - npm atau yarn sebagai package manager
 - Visual Studio Code (disarankan untuk penulisan kode)
 
-## Instalasi
+## Cloning
 1. Clone repository ini:
    ```bash
    git clone https://github.com/FarhanFansuri/typescript-repo.git
