@@ -8,7 +8,7 @@ Ini adalah repository yang dibuat untuk mempelajari dasar-dasar dan konsep TypeS
 ## Daftar Isi
 - [Tentang TypeScript](#tentang-typescript)
 - [Persyaratan](#persyaratan)
-- [Instalasi](#instalasi)
+- [Cloning](#cloning)
 
 
 ## Tentang TypeScript
