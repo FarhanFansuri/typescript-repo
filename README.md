@@ -2,6 +2,9 @@
 
 Ini adalah repository yang dibuat untuk mempelajari dasar-dasar dan konsep TypeScript, serta berbagai fitur dan penggunaan yang umum. 
 
+## Daftar Branch
+- generic : Membahas mengenai Typescript generic
+
 ## Daftar Isi
 - [Tentang TypeScript](#tentang-typescript)
 - [Persyaratan](#persyaratan)
